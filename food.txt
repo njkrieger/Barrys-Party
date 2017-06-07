@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 chocolate 
 chicken
 chips
-
+
+=======
+chickenbeefcarrots
+>>>>>>> 340e09e3f42da793e1221457cf9c23fedbf392a1
